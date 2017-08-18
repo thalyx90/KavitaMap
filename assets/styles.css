@@ -1,0 +1,9 @@
+*{
+	margin: 0;
+}
+
+
+#map{
+	border: thin red solid;
+	height: 80vh;
+}
